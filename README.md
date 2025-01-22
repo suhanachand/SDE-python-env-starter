@@ -1,18 +1,38 @@
-# C2C Elite 101 Python Chatbot Starter
+# C2C Elite 101 Python Environment
 
-This chatbot was created by Jorge Luna - update
+This project provides a Python development environment pre-configured for use with [GitHub Codespaces](https://docs.github.com/en/codespaces). Students can create Codespaces from this repository whenever they need to code in Python for this course
 
-This project is a starter project that includes a dev [container (GitHub Codespace)](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers) that is set up for a python
-development environment.
+## Getting Started
 
-The project is meant to be a starter for your chatbot project.
+To use this project, follow these steps:
 
-To use this project do the following:
+1. **Fork this Repository**
+   - Click the "Fork" button in the top-right corner of the GitHub page to create a copy of this repository in your account.
 
-1. Fork this project
-2. From the code section of the repository click the green code button, select Codespaces
-tab in the popup and click the + button to create a codespace (you will be able to use this codespace
-in the browser or in a local installation of vs code) for more info [go here](https://docs.github.com/en/codespaces/developing-in-a-codespace/opening-an-existing-codespace)
-![Screenshot](codespace_usage.png)
-3. To run the starter program, in a terminal run python main.py, or open the main.py file and click the play button at the top right of the editor
-![Screenshot](codespace_run_file.png)
+2. **Create a Codespace**
+   - Navigate to the forked repository.
+   - Click the green "Code" button.
+   - Select the "Codespaces" tab in the popup.
+   - Click the `+` button to create a new Codespace.
+   - For more information, see [Opening a Codespace](https://docs.github.com/en/codespaces/developing-in-a-codespace/opening-an-existing-codespace).
+   ![Screenshot](codespace_usage.png)
+
+3. **Run the Starter Program**
+   - Open a terminal in the Codespace and run the following command:
+
+     ```bash
+     python main.py
+     ```
+
+   - Alternatively, open the `main.py` file in the editor and click the play button at the top-right corner.
+   ![Screenshot](codespace_run_file.png)
+
+## Key Features
+
+- **Pre-configured Python Environment:** Includes essential tools and extensions for Python development.
+
+## About This Repository
+
+This project is intended to serve as a starting point for Python development throughout the course.
+
+For more details about using Codespaces and devcontainers, refer to [GitHub Codespaces Documentation](https://docs.github.com/en/codespaces).
