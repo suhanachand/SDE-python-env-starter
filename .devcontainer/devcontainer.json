@@ -93,7 +93,6 @@
         "pomdtr.excalidraw-editor",
         "ms-azuretools.vscode-bicep",
         "tamasfe.even-better-toml",
-        "github.copilot",
         // Python specific
         "ms-python.python",
         "ms-python.debugpy",
