@@ -32,7 +32,7 @@ def get_star_count(book):
 def inventory_display(books):
   print("***Our Book Collection***\n-------------------------\n\n")
   for book in books:
-    print(f"Title:{book[0]} \nPrice:{book[1]} \nRating:{book[1]}")
+    print(f"Title:{book[0]} \nPrice:{book[1]} \nRating:{get_star_count(book)}")
     print("---------------------------------------------\n")
 
 
